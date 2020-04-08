@@ -1,0 +1,14 @@
+.header__image {
+    margin: 10px 0 0;
+    width: 96px;
+    height: 120px;
+}
+
+@media screen and (max-width: 500px) {
+    .header__image {
+        margin: 18px 0 0;
+        width: 79px;
+        height: 100px;
+        align-self: flex-start;
+    }
+}

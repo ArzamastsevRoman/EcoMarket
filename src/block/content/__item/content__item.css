@@ -1,0 +1,5 @@
+.content__item {
+    margin: 19px 0 0;
+    display: flex;
+    flex-direction: column;
+}

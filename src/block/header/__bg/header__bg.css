@@ -1,0 +1,16 @@
+.header__bg {
+    background-color: #43B02A;
+    width: calc(100% - 50px);
+    min-height: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    clip-path: polygon(0% 0%, 100% 0%, 84% 100%, 0% 100%);
+}
+
+@media screen and (max-width: 500px) {
+    .header__bg {
+        width: calc(100% - 10px);
+        clip-path: polygon(0% 0%, 100% 0%, 77% 100%, 0% 100%);
+    }
+}

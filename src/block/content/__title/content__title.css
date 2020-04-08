@@ -1,0 +1,16 @@
+.content__title {
+    margin: 0;
+    width: 85%;
+    align-self: center;
+    text-align: center;
+    font-family: DinPro;
+    font-size: 0.9rem;
+    line-height: 1rem;
+    color: #000; 
+}
+
+@media screen and (max-width: 500px) {
+    .content__title {
+        width: 101%;
+    }
+}

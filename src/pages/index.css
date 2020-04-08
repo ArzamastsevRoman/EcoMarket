@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'DinPro';
+    src: url('../fonts/DINPro.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'DinProBold';
+    src: url('../fonts/DINProBold.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'DinProLight';
+    src: url('../fonts/DINProLight.woff') format('woff')
+}

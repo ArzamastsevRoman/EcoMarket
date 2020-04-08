@@ -1,0 +1,22 @@
+.button {
+    margin: 30px auto 45px;
+    width: 29%;
+    height: 35px;
+    background-color: #43B02A;
+    border: 1px solid #43b02a;
+    border-radius: 8px;
+    color: #fff;
+    font-family: DinPro;
+    font-size: 0.9rem;
+    line-height: 1rem;
+}
+
+.button:hover {
+    border: 1px solid aqua;
+}
+
+@media screen and (max-width: 500px) {
+    .button {
+        width: 60%;
+    }
+}

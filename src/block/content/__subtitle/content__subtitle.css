@@ -1,0 +1,13 @@
+.content__subtitle {
+    margin: 0 0 0 20px;
+    font-family: DinProBold;
+    font-size: 0.8rem;
+    line-height: 1rem;
+    color: #43B02A;
+}
+
+@media screen and (max-width: 500px) {
+    .content__subtitle {
+        margin: 6px 0 0;
+    }
+}

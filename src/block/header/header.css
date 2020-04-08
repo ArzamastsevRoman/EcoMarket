@@ -1,0 +1,11 @@
+@import url(./__title/header__title.css);
+@import url(./__logo/header__logo.css);
+@import url(./__image/header__image.css);
+@import url(./__bg/header__bg.css);
+@import url(./__container/header__container.css);
+
+.header {
+    max-height: 130px;
+    margin: 0;
+    position: relative;
+}

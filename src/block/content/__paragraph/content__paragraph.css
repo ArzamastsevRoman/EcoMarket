@@ -1,0 +1,12 @@
+.content__paragraph {
+    margin: 6px 0 0;
+    font-family: DinProLight;
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
+
+@media screen and (max-width: 500px) {
+    .content__paragraph {
+        text-align: center;
+    }
+}
